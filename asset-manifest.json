@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/website-app/static/css/main.aab10998.css",
-    "main.js": "/website-app/static/js/main.1aa2dda3.js",
-    "static/media/yJEFbFax9fb8ePB0rK9UIQoXMG4.jpeg": "/website-app/static/media/yJEFbFax9fb8ePB0rK9UIQoXMG4.8ce41b8480a65d5a0e62.jpeg",
-    "static/media/default-poster.jpeg": "/website-app/static/media/default-poster.ac28d24827dc1cd2fabd.jpeg",
-    "static/media/default-backdrop.jpeg": "/website-app/static/media/default-backdrop.4ba78cd666100136ad45.jpeg",
-    "index.html": "/website-app/index.html",
-    "main.aab10998.css.map": "/website-app/static/css/main.aab10998.css.map",
-    "main.1aa2dda3.js.map": "/website-app/static/js/main.1aa2dda3.js.map"
+    "main.css": "/movie-app/static/css/main.aab10998.css",
+    "main.js": "/movie-app/static/js/main.dad693f3.js",
+    "static/media/yJEFbFax9fb8ePB0rK9UIQoXMG4.jpeg": "/movie-app/static/media/yJEFbFax9fb8ePB0rK9UIQoXMG4.8ce41b8480a65d5a0e62.jpeg",
+    "static/media/default-poster.jpeg": "/movie-app/static/media/default-poster.ac28d24827dc1cd2fabd.jpeg",
+    "static/media/default-backdrop.jpeg": "/movie-app/static/media/default-backdrop.4ba78cd666100136ad45.jpeg",
+    "index.html": "/movie-app/index.html",
+    "main.aab10998.css.map": "/movie-app/static/css/main.aab10998.css.map",
+    "main.dad693f3.js.map": "/movie-app/static/js/main.dad693f3.js.map"
   },
   "entrypoints": [
     "static/css/main.aab10998.css",
-    "static/js/main.1aa2dda3.js"
+    "static/js/main.dad693f3.js"
   ]
 }
